@@ -248,5 +248,3 @@ ISBN: 9780321563842
 Borrowed: Yes
 -----------------------------
 ```
-
-This example demonstrates how to interact with the system by adding a book, borrowing a book, and listing all books in the library. The system will continue to prompt the user until they choose to exit by entering `6`.
